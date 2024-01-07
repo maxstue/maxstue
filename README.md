@@ -1,9 +1,9 @@
 ### Hi there my name is Max 👋
 
-- 🔭 I’m currently working on [Kijk]([https://github.com/SmartHub-Io/SmartHub](https://github.com/maxstue/kijk)), a household app
+- 🔭 I’m currently working on [Kijk](https://github.com/maxstue/kijk), a household app
 - 🌱 I’m currently learning React and c#
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with [Kijk]([https://github.com/SmartHub-Io/SmartHub](https://github.com/maxstue/kijk))
+- 🤔 I’m looking for help with [Kijk](https://github.com/maxstue/kijk)
 - 💬 Ask me about anything ;)
 - ⚡ Fun fact: I love Star wars and Marvel :D
 
